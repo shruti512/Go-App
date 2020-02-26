@@ -1,0 +1,3 @@
+# Go_app
+A large number of students are unable to fulfill their ambitions of getting into top tier institutes such as IITs/IISc./NITs which leads to lag of research development in the country. Go app helps students gather research internship opportunities easily by bridging the gap between students and professors. It provides authentic details about professors from top notch institutes and vacancies in on-going projects. Hence, students can get the experience of working in the best guidance on projects of supreme importance. 
+This is an ongoing project being developed using functionalities such as login, signup, firebase, filters etc.
